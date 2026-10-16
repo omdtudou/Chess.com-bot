@@ -50,10 +50,3 @@ It will show the best moves by standard. You can check the "auto mouse control" 
 
 
 
-## Warning
-
-**The use of external software is forbidden on chess.com.**
-
-**I don't recommend using this bot, because you probably get banned.**
-
-**Use on own responsibility.**
